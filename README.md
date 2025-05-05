@@ -29,6 +29,16 @@ We used real-world transaction data to uncover insights that help boost revenue,
 
 ---
 
+## 🧰 Tools & Technologies Used
+
+Our data journey moved across three major stages, powered by different tools:
+
+- 🐍 **Python** (Pandas, NumPy, etc.) – for data cleaning, preprocessing, and early-stage analysis  
+- 💾 **SQL** – for structured querying, aggregations, and business logic operations  
+- 📊 **Power BI** – to create dynamic dashboards and engaging visualizations that tell the story
+
+---
+
 ## 📈 Key Insights
 
 - 📌 Top-performing categories remained consistent across months  
